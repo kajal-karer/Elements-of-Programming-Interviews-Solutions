@@ -1,8 +1,8 @@
 # Elements of Programming Interviews - JAVA & Python
 ## My solutions & notes from Elements of Programming Interviews
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
-[![Author](https://img.shields.io/badge/author-vaidic-brightgreen.svg)](https://vaidicjoshi.in/)
-[![HitCount](http://hits.dwyl.io/vaidic/elements-of-programming-interviews-solutions.svg)](http://hits.dwyl.io/vaidic/elements-of-programming-interviews-solutions)
+[![Author](https://img.shields.io/badge/author-Kajal_Karer-brightgreen.svg)](https://kajalkarer.com/)
+[![HitCount](http://hits.dwyl.io/kajal-karer/Elements-of-Programming-Interviews-Solutions.svg)](http://hits.dwyl.io/kajal-karer/Elements-of-Programming-Interviews-Solutions)
 [![Python](https://img.shields.io/pypi/pyversions/Django.svg)](https://pypi.org/)
 [![OpenJDK](https://img.shields.io/badge/OpenJDK-11-red.svg)](https://img.shields.io/badge/OpenJDK-11-red)
 
